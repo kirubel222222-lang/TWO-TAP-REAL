@@ -1,0 +1,6 @@
+{
+  "name": "TWO TAP",
+  "description": "An AI-powered knowledge management and content consumption app that helps users save, organize, and summarize content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
